@@ -1,5 +1,5 @@
 <?php
- // MySQL database information
+ // MySQL  database information
 $host = '0.0.0.0';
 $username = 'root';
 $password = 'root';
