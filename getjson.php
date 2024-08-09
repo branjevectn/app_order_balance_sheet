@@ -1,7 +1,7 @@
 <?php 
 
   
-// Read the JSON file  
+// Read the JSON file  ...
 
 $json = file_get_contents('http://192.168.100.243:8080/app/result_data.json'); 
 
