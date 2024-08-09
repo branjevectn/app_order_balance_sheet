@@ -1,5 +1,5 @@
 <?php
-$active = "all_chart";
+$active =  "all_chart";
 include 'header.php';
 
 ?>
