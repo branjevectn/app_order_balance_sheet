@@ -1,4 +1,4 @@
-<?php
+<?php 
 include 'db.php';
 
 $checkbox_status = $_POST['checkbox'];
