@@ -1,4 +1,4 @@
-<?php
+<?php 
 $active = "all_data";
 include 'header.php';
 
