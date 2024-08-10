@@ -1,4 +1,4 @@
-<?php xcg
+<?php xcffg
 $active = "add";
 include 'header.php';
 
