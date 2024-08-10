@@ -1,5 +1,5 @@
 <?php
- // rfgbczffftttfd
+ // rthjfgbczffftttfd
 $host = '0.0.0.0';
 $username = 'root';
 $password = 'root';
