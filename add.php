@@ -1,4 +1,4 @@
-<?php ffh
+<?php 
 $active = "add";
 include 'header.php';
 
