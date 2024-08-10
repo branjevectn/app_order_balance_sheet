@@ -1,6 +1,6 @@
 <?php 
 include 'db.php';
-
+qqq
 $checkbox_status = $_POST['checkbox'];
 // false true
 
