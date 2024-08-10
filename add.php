@@ -1,4 +1,4 @@
-<?php gffhdghh FFS srgfxgh
+<?php gffsd
 $active = "add";
 include 'header.php';
 
