@@ -1,7 +1,7 @@
 <?php
 $active =  "all_chart";
 include 'header.php';
-gfdfggffgv dsdccd
+fffg dsdccd
 ?>
 <div class="side_index">
 <div class="container nopadding">
