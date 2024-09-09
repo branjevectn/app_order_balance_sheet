@@ -1,7 +1,7 @@
 package main
 import ("fmt")
-// vdcdcfdfxfdfgggscfcxdfhdvdcddggdcvvccfggffghrfgvdcvgfccvcfvcddffccvchbrfcbv
-func main() {
+// vdcdcdfggfdfxfdfgggscfcxdfhdvdcddggdcvvccfggffghrfgvdcvgfccvcfvcddffccvchbrfcbv
+func msfain() {
   x := 10
   y := 5
   z := false
