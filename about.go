@@ -1,6 +1,6 @@
 package main
 import ("fmt")
-// vdcdcsdvdcddggdcvvccfggffghrfgvdcvgfccvcfvcddffccvchbrfcbv
+// vdcdcscffhdvdcddggdcvvccfggffghrfgvdcvgfccvcfvcddffccvchbrfcbv
 func main() {
   x := 10
   y := 5
