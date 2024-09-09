@@ -1,6 +1,6 @@
 package main
 import ("fmt")
-// fxafdgjfvhfyffhhdgghgcvxcvvcccvdghgvfddgxcvvghdfgvddsgdsfvbfggfdghaxvvvfsdgffd
+// fxafdggsdghjfvhfyffhhdgghgcvxcvvcccvdghgvfddgxcvvghdfgvddsgdsfvbfggfdghaxvvvfsdgffd
 func msfain() {
   x := 10
   y := 5
